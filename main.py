@@ -24,6 +24,7 @@ time.sleep(1)
 os.system("cls" if os.name == "nt" else "clear")
 print(f"Welcome To Server | User: {uname}")
 print("please wait...")
+print("Get Username and Password at: http://traffic1s.com/katapanel")
 ip= requests.get('https://api.ipify.org').text.strip()
 online= random.randint(1, 153)
 
@@ -634,5 +635,19 @@ def main():
             except IndexError:
                 pass
             
+def login():
+    user = "0112"
+    passwd = "0112"
+    username = input("⚡ Username: ")
+    password = getpass.getpass(prompt='⚡ Password: ')
+    if username != user or password != passwd:
+        print("")
+        print("⚡ Wrong, Get Username and Password at: http://traffic1s.com/katapanel")
+        sys.exit(1)
+    elif username == user and password == passwd:
+        print("⚡ Thank you very muchhhhh <333")
+        time.sleep(0.3)
+        
+        main()
 
-main()
+login()

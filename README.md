@@ -2,7 +2,7 @@
  
 # 🚀 KATA DDOS V1 - Free DDoS Panel 🚀
 
-
+# Get Username and pass at: http://traffic1s.com/katapanel
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods

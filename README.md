@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 KATA DDOS - Free DDoS Panel 🚀
+# 🚀 KATA DDOS V1 - Free DDoS Panel 🚀
 
 
 # README ♥️

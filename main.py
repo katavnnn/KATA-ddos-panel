@@ -642,11 +642,11 @@ def login():
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
         print("")
-        print("⚡ Wrong, Get Username and Password at: http://traffic1s.com/katapanel")
+        print("⚡ Wrong, Get Username and Password at: https://link68.net/2MwY2y")
         sys.exit(1)
     elif username == user and password == passwd:
         print("⚡ Thank you very muchhhhh <333")
-        time.sleep(0.3)
+        time.sleep(1)
         
         main()
 

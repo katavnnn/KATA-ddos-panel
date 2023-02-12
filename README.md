@@ -2,7 +2,7 @@
  
 # 🚀 KATA DDOS V1 - Free DDoS Panel 🚀
 
-# Get Username and pass at: https://link68.net/2MwY2y
+# Get Username and pass at: https://link68.net/j4yHp0
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods
@@ -61,21 +61,9 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
-python3 c2.py
+python3 main.py
 ```
 
-# Credits
-```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
-```
 
 # TOS:
 ```sh

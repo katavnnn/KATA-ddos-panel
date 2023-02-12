@@ -24,7 +24,7 @@ time.sleep(0.3)
 os.system("cls" if os.name == "nt" else "clear")
 print(f"Welcome To Server | User: {uname}")
 print("please wait...")
-print("Get Username and Password at: https://link68.net/2MwY2y")
+print("Get Username and Password at: https://link68.net/j4yHp0")
 ip= requests.get('https://api.ipify.org').text.strip()
 online= random.randint(1, 153)
 
@@ -642,7 +642,7 @@ def login():
     password = getpass.getpass(prompt='⚡ Password: ')
     if username != user or password != passwd:
         print("")
-        print("⚡ Wrong, Get Username and Password at: https://link68.net/2MwY2y")
+        print("⚡ Wrong, Get Username and Password at: https://link68.net/j4yHp0")
         sys.exit(1)
     elif username == user and password == passwd:
         print("⚡ Thank you very muchhhhh <333")

@@ -24,10 +24,7 @@ time.sleep(0.3)
 os.system("cls" if os.name == "nt" else "clear")
 print(f"Welcome To Server | User: {uname}")
 print("please wait...")
-print("Get Username and Password at: https://link68.net/j4yHp0")
-ip= requests.get('https://api.ipify.org').text.strip()
-online= random.randint(1, 153)
-
+print("Get Username and Password at: https://link68.net/j4yHp0"
 
 ###Help Gif###
 def hlp(screen):

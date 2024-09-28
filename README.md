@@ -2,7 +2,7 @@
  
 # 🚀 KATA DDOS V1 - Free DDoS Panel 🚀
 
-# Get Username and pass at: https://link68.net/j4yHp0
+#Username and pass: 0112
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods
